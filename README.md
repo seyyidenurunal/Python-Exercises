@@ -25,3 +25,5 @@ Kullanıcının girdiği vize1,vize2,final notlarına notlarına göre harf notu
     Toplam Not >=  55 -----> FD
     Toplam Not <  55 -----> FF
 
+**mukemmelSayı.py :** 
+    Kullanıcıdan aldığımız sayının mükemmel olup olmadığını bulmaya çalışalım. 
